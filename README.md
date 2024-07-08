@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sarvesh420356/sarvesh420356/blob/main/Screenshot_6.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
 <h3 align="center">A passionate web developer from Mumbai</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/sarvesh420356/sarvesh420356/blob/main/ezgif.com-effects.gif?raw=true>
+<img align="right" alt="coding" width="400" src="ezgif.com-effects.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh420356&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh420356" /> </p>
 
