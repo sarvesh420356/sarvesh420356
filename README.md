@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sarvesh420356/sarvesh420356/blob/main/Screenshot_6.png?raw=true)
+![MasterHead](https://github.com/sarvesh420356/sarvesh420356/blob/main/Screenshot_6.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
 <h3 align="center">A passionate web developer from Mumbai</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fmale-programmer-doing-coding-work-9560195&psig=AOvVaw3NDPWwGhxpgos1dinHiSZG&ust=1720522539331000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICA64mkl4cDFQAAAAAdAAAAABAQ"/>
