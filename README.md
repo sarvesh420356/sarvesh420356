@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh420356&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh420356" /> </p>
 
-- 🌱 I’m currently learning **Python for Data Science**
+<!--- 🌱 I’m currently learning **Python for Data Science** -->
 
-- 💬 Ask me about **Python**
+<!-- - 💬 Ask me about **Python** -->
 
 - 📫 How to reach me **sarveshshinde19@gmail.com**
 
