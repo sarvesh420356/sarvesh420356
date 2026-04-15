@@ -13,10 +13,9 @@
 </p>
 
 <!-- Name -->
-<h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
-<p align="right">
-  <img src="YOUR_GIF_URL" width="300" style="border-radius:50%; border:3px solid #00F7FF;">
-  <img align="right" alt="coding" width="400" src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
+  <img align="center" width="300" alt="coding" width="400" style="border-radius:50%; border:3px solid #00F7FF;" src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 </p>
 
 <!-- Typing Animation -->
