@@ -1,27 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
-<h3 align="center">Nutanix, storage & virtualization engineer exploring DevOps.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sarvesh Shinde Portfolio</title>
+</head>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh420356&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh420356" /> </p>
+<body style="margin:0; font-family:Arial, sans-serif; background:#0d1117; color:white;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh420356" alt="sarvesh420356" /></a> </p>
-
-- 🔭 I’m currently working on **Nutanix,Storage,Virtualization**
-
-- 🌱 I’m currently learning **Linux**
-
-- 💬 Ask me about **Nutanix**
-
-- 📫 How to reach me **sarveshshinde19@gmail.com**
-
-- ⚡ Fun fact **I love to read stories in my free time**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarveshshinde2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarveshshinde2002" height="30" width="40" /></a>
-<a href="https://instagram.com/shindesarvesh011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shindesarvesh011" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/sarvesh420356/sarvesh420356/blob/main/Screenshot_6.png?raw=true" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Name -->
+<h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh420356&show_icons=true&locale=en&layout=compact" alt="sarvesh420356" /></p>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Python+Enthusiast;Web+Developer;Always+Learning+🚀" />
+</p>
+
+<h3 align="center">🚀 Passionate Fresher | Developer | Lifelong Learner</h3>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarvesh420356&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- About -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+🌱 Learning <b>Python for Data Science & ML</b> <br><br>
+💬 Ask me about <b>Python, SQL, Web Dev</b> <br><br>
+📫 Reach me: <b>sarveshshinde19@gmail.com</b> <br><br>
+⚡ Fun fact: I love reading stories 📚
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- Social -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/sarveshshinde2002">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="https://instagram.com/shindesarvesh011">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- Skills -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,php,mysql,postgres,docker,git,azure,tensorflow" />
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh420356&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh420356&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh420356&layout=compact&theme=tokyonight" />
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- Skills Section -->
+<h2 align="center">🚀 Featured Skills</h2>
+
+<p align="center">
+✔️ Web Development &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ Database Management &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ Data Analysis &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ Problem Solving
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<!-- Quote -->
+<h2 align="center">✨ Quote</h2>
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat." 🔥</i>
+</p>
+
+<br><br>
+
+</body>
+</html>
