@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sarvesh Shinde Portfolio</title>
+    <!-- <title>Sarvesh Shinde Portfolio</title> -->
 </head>
 
 <body style="margin:0; font-family:Arial, sans-serif; background:#0d1117; color:white;">
@@ -80,6 +80,7 @@
 </p>
 
 <hr style="border:1px solid #30363d;">
+<img align="right" alt="coding" width="400" src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <!-- Skills Section -->
 <h2 align="center">🚀 Featured Skills</h2>
