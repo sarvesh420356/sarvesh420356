@@ -14,6 +14,7 @@
 
 <!-- Name -->
 <h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
+<img align="right" alt="coding" width="400" src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <!-- Typing Animation -->
 <p align="center">
@@ -80,7 +81,6 @@
 </p>
 
 <hr style="border:1px solid #30363d;">
-<img align="right" alt="coding" width="400" src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <!-- Skills Section -->
 <h2 align="center">🚀 Featured Skills</h2>
