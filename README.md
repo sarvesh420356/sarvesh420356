@@ -23,7 +23,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Python+Enthusiast;Web+Developer;Always+Learning+🚀" />
 </p>
 
-<h3 align="center">🚀 Passionate Fresher | Developer | Lifelong Learner</h3>
+<h3 align="center">🚀 Passionate Fresher | DevOps & Cloud Enthusiast | Lifelong Learner</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -36,8 +36,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-🌱 Learning <b>Python for Data Science & ML</b> <br><br>
-💬 Ask me about <b>Python, SQL, Web Dev</b> <br><br>
+🌱 Learning <b>DevOps</b> <br><br>
+💬 Ask me about <b>Anything</b> <br><br>
 📫 Reach me: <b>sarveshshinde19@gmail.com</b> <br><br>
 ⚡ Fun fact: I love reading stories 📚
 </p>
