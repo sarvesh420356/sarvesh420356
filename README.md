@@ -20,7 +20,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+&+DevOps+Enthusiast;Nutanix+Learner;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud & DevOps+Enthusiast;Nutanix+Learner;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">🚀 Passionate Fresher | DevOps & Cloud Enthusiast | Lifelong Learner</h3>
@@ -67,22 +67,20 @@
 
 <hr style="border:1px solid #30363d;">
 
-<!-- Stats -->
+<!-- stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh420356&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh420356&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh420356&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarvesh420356&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh420356&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh420356&layout=compact&theme=radical&hide_border=true" />
 </p>
-
-<hr style="border:1px solid #30363d;">
 
 <!-- Skills Section -->
 <h2 align="center">🚀 Featured Skills</h2>
