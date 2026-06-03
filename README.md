@@ -20,7 +20,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Python+Enthusiast;Web+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+&+DevOps+Enthusiast;Nutanix+Learner;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">🚀 Passionate Fresher | DevOps & Cloud Enthusiast | Lifelong Learner</h3>
@@ -62,7 +62,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,php,mysql,postgres,docker,git,azure,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,mysql,postgres,docker,git,azure,linux,kubernetes" />
 </p>
 
 <hr style="border:1px solid #30363d;">
@@ -88,9 +88,9 @@
 <h2 align="center">🚀 Featured Skills</h2>
 
 <p align="center">
-✔️ Web Development &nbsp;&nbsp; | &nbsp;&nbsp;
-✔️ Database Management &nbsp;&nbsp; | &nbsp;&nbsp;
-✔️ Data Analysis &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ DevOps &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ Cloud &nbsp;&nbsp; | &nbsp;&nbsp;
+✔️ Linux &nbsp;&nbsp; | &nbsp;&nbsp;
 ✔️ Problem Solving
 </p>
 
